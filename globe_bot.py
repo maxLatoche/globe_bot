@@ -7,8 +7,8 @@ import praw
 
 r = praw.Reddit(username='globe_bot',
                 password='GLOBE_BOT_PASSWORD',
-                client_id='DbfTRkNzJMgyMQ',
-                client_secret='kMcAHsgaT-iNUhsruNsHT_mqa1A',
+                client_id='CLIENT_ID',
+                client_secret='CLIENT_SECRET',
                 user_agent="<platform>:<app ID>:<version string> (by /u/<reddi"
                 "t username>) globe comment responder v0.1")
 
