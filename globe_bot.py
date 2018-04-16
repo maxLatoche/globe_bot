@@ -6,7 +6,7 @@ import praw
 # init praw
 
 r = praw.Reddit(username='globe_bot',
-                password='dadgadpimp1',
+                password='GLOBE_BOT_PASSWORD',
                 client_id='DbfTRkNzJMgyMQ',
                 client_secret='kMcAHsgaT-iNUhsruNsHT_mqa1A',
                 user_agent="<platform>:<app ID>:<version string> (by /u/<reddi"
